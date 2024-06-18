@@ -11,8 +11,7 @@ This is a simple chat application project built using Java Servlets and Apache T
 
 - **Java Servlets**: For handling HTTP requests and responses.
 - **Apache Tomcat**: Application server for running the servlets.
-- **HTML/CSS**: Basic front-end for user interface.
-- **JavaScript**: For client-side interactions and real-time messaging.
+- **JavaFX**: Basic front-end for user interface.
 
 ## Setup Instructions
 
