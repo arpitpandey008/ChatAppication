@@ -5,7 +5,6 @@ This is a simple chat application project built using Java Servlets and Apache T
 ## Features
 
 - **Real-time Messaging**: Allows users to send and receive messages in real-time.
-- **Session Management**: Manages user sessions using servlets.
 - **Apache Tomcat**: Uses Apache Tomcat as the server for hosting the application.
 
 ## Technologies Used
